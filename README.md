@@ -17,3 +17,8 @@
 
 
 ![rawcode.py中的数据格式](caption.png)
+
+### jsoncode.json中的数据说明
+
+1. jsonl格式
+2. 包含字段'language'、'domain'、'source'、'prompt'、'solution'、'test'。
